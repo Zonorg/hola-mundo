@@ -2,4 +2,4 @@
 
 Mi primer repositorio en Github
 
-I love :icecream:, :football:, :soccer:
+I love :icecream:, :football:, :soccer:, :pizza:
